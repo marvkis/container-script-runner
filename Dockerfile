@@ -1,5 +1,5 @@
 # https://hub.docker.com/_/alpine/tags
-FROM alpine:3.22.1
+FROM alpine:3.22.2
 LABEL org.opencontainers.image.description "Alpine based script runner container"
 
 # coreutils: delivers date comand understanding `date -d '10 days ago 00:00:00'`
