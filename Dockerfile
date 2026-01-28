@@ -1,5 +1,5 @@
 # https://hub.docker.com/_/alpine/tags
-FROM alpine:3.23.2
+FROM alpine:3.23.3
 LABEL org.opencontainers.image.description "Alpine based script runner container"
 LABEL org.opencontainers.image.authors="marvkis"
 LABEL org.opencontainers.image.source="https://github.com/marvkis/container-script-runner.git"
